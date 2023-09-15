@@ -7,13 +7,13 @@ Open a new terminal from your preferred directory and run these commands in the 
 ### Clone the repository
 
 ```
-git clone https://github.com/adheesha-chamod/react-task-tracker.git
+git clone https://github.com/tharindugunawardhana99/task-tracker.git
 ```
 
 ### Change directory
 
 ```
-cd react-task-tracker
+cd task-tracker
 ```
 
 ### Install dependencies
